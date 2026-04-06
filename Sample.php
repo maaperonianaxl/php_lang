@@ -7,14 +7,6 @@ function addNumbers(int $a, int $b) {
 }
 ?>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>PHP Module 5 Combined</title>
-</head>
-<body>
-
-<h1>PHP Module 5 Output</h1>
 
 <?php
 
@@ -60,12 +52,9 @@ writeMyName("Vince");
 writeMyName("Isaac");
 writeMyName("Kyrie");
 
-
 // Addition function with return
 echo "<h3>Addition Function</h3>";
 echo "Sum: " . addNumbers(5, 5) . "<br>";
-
-
 
 // Date functions
 
@@ -73,8 +62,6 @@ echo "<h3>Date Function</h3>";
 echo date("Y/m/d") . "<br>";
 echo date("Y-m-d") . "<br>";
 echo date("l dS \\of F Y") . "<br>";
-
-
 
 // If / Else
 
