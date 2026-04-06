@@ -37,7 +37,7 @@ echo "<div class='card'>"; // Nested card for name display
 echo "<h3>Name:</h3>";     // Displaying names as per the original code
 $name = "Reton Nino Gabisan"; 
 $name2 = "Maape Ronian Axl";
-$name3 = "Gumatay Nick Adriane";
+$name3 = "Gumatay Nick Adrienne";
 echo "<p>$name</p>";
 echo "<p>$name2</p>";
 echo "<p>$name3</p>";
